@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: lib/cucumber-java-7.33.0.jar lib/apiguardian-api-1.1.2.jar l
+ ib/cucumber-testng-7.33.0.jar lib/testng-7.11.0.jar lib/slf4j-api-2.0.1
+ 6.jar lib/jcommander-1.83.jar lib/jquery-3.7.1.jar lib/cucumber-core-7.
+ 33.0.jar lib/cucumber-gherkin-7.33.0.jar lib/cucumber-gherkin-messages-
+ 7.33.0.jar lib/gherkin-36.1.0.jar lib/messages-30.1.0.jar lib/pretty-fo
+ rmatter-2.4.1.jar lib/query-14.7.0.jar lib/teamcity-formatter-0.2.0.jar
+  lib/testng-xml-formatter-0.7.0.jar lib/usage-formatter-0.1.0.jar lib/t
+ ag-expressions-8.1.0.jar lib/cucumber-expressions-18.0.1.jar lib/cucumb
+ er-json-formatter-0.3.2.jar lib/datatable-7.33.0.jar lib/cucumber-plugi
+ n-7.33.0.jar lib/docstring-7.33.0.jar lib/html-formatter-22.2.0.jar lib
+ /junit-xml-formatter-0.11.0.jar lib/ci-environment-12.0.0.jar
+Main-Class: com.Main
+Created-By: Maven Integration for Eclipse
+
